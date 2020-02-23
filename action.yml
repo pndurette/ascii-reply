@@ -1,7 +1,5 @@
 name: 'ASCII reply'
-description: |
-  Action that replies to an issue/PR comment, with that comment in ASCII art text.
-  Can be restricted to a 'command' (e.g. /ascii <text>).
+description: Action that replies to an issue/PR comment, with that comment in ASCII art text.
 inputs:
   repo-token:
     description: 'Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}'
