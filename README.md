@@ -1,4 +1,4 @@
-# `pndurette/ghapg/ascii-reply`
+# `pndurette/ascii-reply`
 
 Action that responds to an issue/PR comment, with that comment in ASCII art text.
 
